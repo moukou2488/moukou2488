@@ -2,9 +2,9 @@
 
 # Hello, I'm Yurim👏
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleemember&count_bg=%23FDC8F8CB&title_bg=%23F54D4D96&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/moukou2488)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoukou2488&count_bg=%233DC868&title_bg=%23C0E771&icon=sourcegraph.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<img src="https://2.gall-gif.com/hygall/files/attach/images/82/557/552/189/1786b119778bb1ca718047c3a20e7285.gif" />
+<img src="https://mblogthumb-phinf.pstatic.net/MjAxODAxMThfODgg/MDAxNTE2Mjc5NTcyMjQw.F6MKpRGA9kWVSw8wEWW8iMkUAFK1KGZs-Q3d2xPbv3gg.yWZr01tFRj0MnHmXMf3VzWlYmPrLACZcWy3x3hxoGF8g.GIF.studygir/Trlobtp_%2823%29.gif?type=w2" />
 
 ## ✨ Front-end Stack ✨
 
