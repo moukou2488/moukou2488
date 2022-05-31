@@ -38,7 +38,6 @@
 
  
 # :mailbox_with_mail: Contacts
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://soo-vely-dev.tistory.com/)](https://soo-vely-dev.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail:flag326@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:flag326@gmail.com)](mailto:flag326@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver:flag326@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:flag326@naver.com)](mailto:flag326@naver.com)
   
