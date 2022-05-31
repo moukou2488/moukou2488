@@ -6,8 +6,10 @@
 
 <img src="https://mblogthumb-phinf.pstatic.net/MjAxODAxMThfODgg/MDAxNTE2Mjc5NTcyMjQw.F6MKpRGA9kWVSw8wEWW8iMkUAFK1KGZs-Q3d2xPbv3gg.yWZr01tFRj0MnHmXMf3VzWlYmPrLACZcWy3x3hxoGF8g.GIF.studygir/Trlobtp_%2823%29.gif?type=w2" />
 
-## ✨ Front-end Stack ✨
-
+## ✨Back-end Stack ✨
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 <div>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-F68212?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -20,6 +22,8 @@
 <img src="https://img.shields.io/badge/Mobx-FF9955?style=flat-square&logo=Mobx&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=Next.js&logoColor=white"/><br/>
 </div>
+
+## ✨ Front-end Stack ✨
 
 ## ✨ Cowork tools ✨
 
@@ -36,18 +40,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leemember&layout=compact)](https://github.com/leemember/github-readme-stats)
 
 </div>
-
-<!--
-**moukou2488/moukou2488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
