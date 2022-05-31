@@ -37,11 +37,11 @@
 <br />
 
  
-# :mailbox_with_mail: Contacts
+## :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail:flag326@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:flag326@gmail.com)](mailto:flag326@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver:flag326@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:flag326@naver.com)](mailto:flag326@naver.com)
   
-# :mailbox_with_mail: Blog
+## :pencil2: Blog
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=notion&link=https://booming-church-eb2.notion.site/5433e631f6ac40208fb1329bc9c60ca3)](https://booming-church-eb2.notion.site/5433e631f6ac40208fb1329bc9c60ca3)
 
 </div>
