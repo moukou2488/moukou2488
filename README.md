@@ -44,4 +44,6 @@
 ## :pencil2: Blog
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=notion&link=https://booming-church-eb2.notion.site/5433e631f6ac40208fb1329bc9c60ca3)](https://booming-church-eb2.notion.site/5433e631f6ac40208fb1329bc9c60ca3)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=d0e69e&height=100&section=footer" />
+
 </div>
